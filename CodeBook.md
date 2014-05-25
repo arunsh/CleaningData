@@ -19,4 +19,4 @@ Then it will join this new data set with the activity_label.txt file data to get
 
 Then in the last it will create a tidy data set with the average of each variable for each activity and each subject. Here we are having 6 different activites and there are 30 different subjects. So our result tidy data set will have 180 records with mean of all the columns(mean and std ones). 
 
-Then it will same this tidy data set into a text file tidy_data.txt
+Then it will save this tidy data set into a text file tidy_data.txt
